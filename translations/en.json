@@ -1,0 +1,9 @@
+{
+    "welcome": "Welcome",
+    "signIn": "Sign In",
+    "signUp": "Sign Up",
+    "language": "Language",
+    "homeScreen.greeting": "Welcome to the Home Screen!",
+  "chatScreen.chatWith": "Chat with {{friendName}}",
+  "searchScreen.title": "Search Screen"
+}
